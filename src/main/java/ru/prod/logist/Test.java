@@ -13,6 +13,7 @@ public class Test {
     public static void main(String[] args) {
         CustomerOrder customerOrder = new CustomerOrder();
         System.out.println("hello");
+        System.out.println("hello1");
 //        customerOrder.setNumber("1");
 //        final StandardServiceRegistry registry = new StandardServiceRegistryBuilder().configure().build();
 //
